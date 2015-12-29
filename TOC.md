@@ -13,10 +13,12 @@
  - [1.11 图标和图形(Icons and Graphics)](icons-and-graphics.md)
  - [1.12 术语和措辞(Terminology and Wording)](terminology-and-wording.md)
  - [1.13 与 iOS 的整合(Integrating with iOS)](integrating-with-ios.md)
+
 ## iOS 9人机界面指南(二)：设计策略
  - [2.1 设计原则(Design Principles)](design-principles.md)
  - [2.2 从概念到产品(From Concept to Product)](from-concept-to-product.md)
  - [2.3 案例学习：从桌面到 iOS(Case Study: From Desktop to iOS)](from-desktop-to-ios.md)
+
 ## iOS 9人机界面指南(三)：iOS 技术 (上)
  - [3.1 3D 触摸(3D Touch)](3d-touch.md)
  - [3.2 Live Photos](live-photos.md)
